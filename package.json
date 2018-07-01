@@ -18,5 +18,8 @@
   "homepage": "https://github.com/guilhermegm/search-tree#readme",
   "dependencies": {
     "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
   }
 }
