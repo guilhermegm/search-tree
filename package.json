@@ -2,7 +2,7 @@
   "name": "search-tree",
   "version": "0.1.0",
   "description": "Search based on Trie for raw words",
-  "main": "SearchTree.js",
+  "main": "./lib/SearchTree.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
