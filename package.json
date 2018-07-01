@@ -4,7 +4,7 @@
   "description": "Search based on Trie for raw words",
   "main": "./lib/SearchTree.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./lib/SearchTree.test.js"
   },
   "repository": {
     "type": "git",
