@@ -1,5 +1,5 @@
 {
-  "name": "search-tree",
+  "name": "search-tree-trie",
   "version": "0.1.0",
   "description": "Search based on Trie for raw words",
   "main": "./lib/SearchTree.js",
